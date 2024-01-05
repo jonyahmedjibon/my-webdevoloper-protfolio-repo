@@ -132,4 +132,24 @@ nav a {
     color: #474747;
     font-size: 30px;
     font-weight: 700;
+    margin: 10px;
+}
+.resume-container{
+    display: flex;
+    gap: 60px;
+}
+.resume-institute, .resume-dec{
+    color: #757575;
+}
+.resume-item-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+}
+.resume-container hr{
+    margin: 30px;
+}
+.downlaod-cv{
+    text-align: center;
+    margin: 50px;
 }
